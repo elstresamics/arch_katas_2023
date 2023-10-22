@@ -72,10 +72,9 @@ You can find the key Architectural Decision Records [here](./ADRs/)
 # Directory Structure
 
 - [ADRs](./ADRs/) - contains all architecture decisions and assumptions
-- [diagrams](./diagrams/) - contains architecture diagrams (also available as a singe [PDF file](./diagrams/System%20Component%20Diagram%20-%20Platform.pdf))
+- [Diagrams](./diagrams/) - contains architecture diagrams (also available as a singe [PDF file](./diagrams/System%20Component%20Diagram%20-%20Platform.pdf))
 	- [Legend](./diagrams/Legend.jpg)
 	- [System Overview and Use Case Diagram](./diagrams/System%20Overview%20and%20Use%20Case%20Diagram%20-%20Platform.jpeg)
 	- [System Component Diagram](./diagrams/System%20Component%20Diagram%20-%20Platform.jpeg)
 	- [Data Platform Diagram](./diagrams/Data%20Platform%20Diagram.jpg)
-- [Key Capabilities](./Key%20Capabilities/) - contains the architectural descriptions of key system capabilities
-- [Sequence Diagrams](./Sequence%20Diagrams/)
+- [Images](./Images/) - contains images
