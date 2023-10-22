@@ -14,9 +14,9 @@ Any system usually have humble beginnings and then grow organically into somethi
 ...
 
 Authors:
-* [Alex Pérez](https://www.linkedin.com/in/)
-* [José Manuel Jarque](https://www.linkedin.com/in/)
-* [Mario López de Ávila](https://www.linkedin.com/in/mariolopezdeavila)
+* [Alex Pérez](https://www.linkedin.com/in/alexperezbaron)
+* [José Manuel Jarque](https://www.linkedin.com/in/josemanueljarque)
+* [Mario López de Ávila](https://www.linkedin.com/in/lopezdeavila)
 
 ## Requirements  
 
