@@ -1,7 +1,7 @@
 # arch_katas_2023
 # The "Wildlife Watcher" System  
 
-![image](./Images/Title.png)
+![image](./Images/WW-logo_1000px-wide.png)
 
 ## Prelude  
 
