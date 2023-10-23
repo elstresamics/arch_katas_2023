@@ -14,7 +14,7 @@ Any system usually have humble beginnings and then grow organically into somethi
 ...
 
 Authors:
-* [Alex P. Barón] a.k.a **BaronTech** (https://www.linkedin.com/in/alexperezbaron)
+* [Alex P. Barón](https://www.linkedin.com/in/alexperezbaron) a.k.a **BaronTech**
 * [José Manuel Jarque](https://www.linkedin.com/in/josemanueljarque)
 * [Mario López de Ávila](https://www.linkedin.com/in/lopezdeavila)
 
